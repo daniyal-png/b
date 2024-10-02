@@ -60,9 +60,9 @@ a:active {
     background-size: auto;
     padding-bottom: 3rem;
 /* Rectangle 10: */
-background-image: -webkit-linear-gradient(44deg, #0C0091 0%, #00A87E 100%);
-background-image: -o-linear-gradient(44deg, #0C0091 0%, #00A87E 100%);
-background-image: linear-gradient(134deg, #0C0091 0%, #00A87E 100%);
+background-image: -webkit-linear-gradient(44deg, #00563F 0%, #F7E7CE 100%);
+background-image: -o-linear-gradient(44deg, #00563F 0%, #F7E7CE 100%);
+background-image: linear-gradient(134deg, #00563F 0%, #F7E7CE 100%);
 }
 
 .yeo-slogan .slogan-bold {
